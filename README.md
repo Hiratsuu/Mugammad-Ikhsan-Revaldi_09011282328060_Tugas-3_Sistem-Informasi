@@ -5,7 +5,7 @@
 3. Command line "whoami" ![3](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-3_Sistem-Operasi/blob/main/50%20Command/3.png?raw=true)
 4. Command line "mkdir" ![4](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-3_Sistem-Operasi/blob/main/50%20Command/4.png?raw=true)
 5. Command line "touch" ![5](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-3_Sistem-Operasi/blob/main/50%20Command/5.png?raw=true)
-6. Command line "rm" ![6](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-3_Sistem-Operasi/blob/main/50%20Command/5.png?raw=true)
+6. Command line "rm" ![6](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-3_Sistem-Operasi/blob/main/50%20Command/6.png?raw=true)
 7. Command line "cp" ![7](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-3_Sistem-Operasi/blob/main/50%20Command/7.png?raw=true)
 8. Command line "nano" ![8](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-3_Sistem-Operasi/blob/main/50%20Command/8.png?raw=true)
 9. Command line "cat" ![9](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-3_Sistem-Operasi/blob/main/50%20Command/9.png?raw=true)
