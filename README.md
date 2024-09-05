@@ -1,4 +1,4 @@
-# Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-3_Sistem-Informasi
+# Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-3_Sistem-Operasi
 
 1. Command line "ls"![1](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-3_Sistem-Operasi/blob/main/50%20Command/1.png)
 2. Command line "pwd" ![2](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-3_Sistem-Operasi/blob/main/50%20Command/2.png?raw=true)
